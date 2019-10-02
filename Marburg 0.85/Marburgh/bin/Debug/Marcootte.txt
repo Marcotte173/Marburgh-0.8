@@ -1,0 +1,1 @@
+Marcootte,Warrior,1,None,Cloth Armor,8353,0,10,6,6,44,44,5,5,0,0,226,6
